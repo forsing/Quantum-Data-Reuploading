@@ -24,7 +24,7 @@ algorithm_globals.random_seed = SEED
 
 
 # Use the existing dataframe
-df_raw = pd.read_csv('/Users/milan/Desktop/GHQ/data/loto7hh_4548_k5.csv')
+df_raw = pd.read_csv('/data/loto7hh_4548_k5.csv')
 # 4548 historical draws of Lotto 7/39 (Serbia)
 
 
@@ -133,58 +133,5 @@ print()
 """
 3-layer Quantum Data Re-uploading Results:
    Num1  Num2  Num3  Num4  Num5  Num6  Num7
-0     5     9    15    12    22    24    35
-"""
-
-
-
-
-
-"""
-
-Multi-Qubit VQR 
-QRC 
-QNN 
-QCNN 
-QKA 
-QRNN 
-QMTR 
-QGBR 
-QBR 
-QSR 
-
-
-
-
-
-
-QCM
-
-QDR 
-
-QELM
-
-QGPR 
-
-QTL
-
-
-
-
-
-
-quantile 
-
-VQC
-
-QSVR
-
-Quantum Data Re-uploading Regression
-
-"""
-
-
-
-"""
-ok for VQC and QSVR and Quantum Data Re-uploading Regression and Multi-Qubit VQR and QRC and QNN and QCNN and QKA and QRNN and QMTR and QGBR and QBR and QSR and QDR and QGPR and QTL and QELM, give next model quantum regression with qiskit
+0     5     9     x     y     z    24    35
 """
